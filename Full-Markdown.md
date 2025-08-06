@@ -25,6 +25,11 @@ Alt-H2
 ###### h6 Heading
 ###### h6 Heading
 
+###### h6 Heading
+###### h6 Heading
+###### h6 Heading
+###### h6 Heading
+
 ##### h5 Heading
 ##### h5 Heading
 ##### h5 Heading
