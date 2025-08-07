@@ -1,3 +1,16 @@
+# Example
+
+- # **H1 Bold List Line**
+- ## **H2 Bold List Line**
+- ### _H3 Italic List Line_
+- #### _H4 Italic List Line_
+- ##### ~~H5 Strikethrough Lsit Line~~
+- ###### H6 Normal List Line
+
+```
+Markdown 是一種輕量級標記語言，常用於撰寫說明文件、README、部落格等，支援標題、清單、粗體、斜體、連結、圖片、程式碼區塊等格式。
+```
+
 # Headers
 
 ```
@@ -29,6 +42,12 @@ Alt-H2
 ###### h6 Heading
 ###### h6 Heading
 ###### h6 Heading
+
+##### h5 Heading
+##### h5 Heading
+##### h5 Heading
+##### h5 Heading
+##### h5 Heading
 
 Alternatively, for H1 and H2, an underline-ish style:
 
