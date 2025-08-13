@@ -7,9 +7,24 @@
 - ##### ~~H5 Strikethrough Lsit Line~~
 - ###### H6 Normal List Line
 
+---
+
+---
+
+---
+
+---
+
+---
+
 ```
 Markdown 是一種輕量級標記語言，常用於撰寫說明文件、README、部落格等，支援標題、清單、粗體、斜體、連結、圖片、程式碼區塊等格式。
 ```
+
+1
+2
+3
+4
 
 # Headers
 
